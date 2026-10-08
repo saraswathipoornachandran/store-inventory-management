@@ -63,7 +63,19 @@ The technical stack will be updated to reflect the technologies used in the actu
 
 ## Application Screenshots
 
-The following section will showcase the application's interface using demonstration data.
+
+## Application Screenshots
+
+The following screenshot provides a visual overview of
+the Store & Inventory Management System.
+
+### Application Interface
+
+![Store & Inventory Management System](screenshots/download%20%283%29.png)
+
+---
+
+**Live Application:** https://store.apptoryx.com/
 
 ### Application Overview
 

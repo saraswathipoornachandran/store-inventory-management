@@ -52,17 +52,13 @@ The application is hosted online and accessible through its dedicated web addres
 |---|---|
 | Application Type | Web Application |
 | Business Domain | Store & Inventory Management |
-| Frontend | To be confirmed |
-| Backend | To be confirmed |
-| Database | To be confirmed |
+| Frontend | HTML, CSS, JavaScript |
+| Backend | Node.js |
 | Deployment | Hosted Web Application |
 
 The technical stack will be updated to reflect the technologies used in the actual implementation.
 
 ---
-
-## Application Screenshots
-
 
 ## Application Screenshots
 
@@ -72,22 +68,6 @@ the Store & Inventory Management System.
 ### Application Interface
 
 ![Store & Inventory Management System](screenshots/download%20%283%29.png)
-
----
-
-**Live Application:** https://store.apptoryx.com/
-
-### Application Overview
-
-*Screenshot to be added.*
-
-### Store Management Interface
-
-*Screenshot to be added.*
-
-### Inventory Management Interface
-
-*Screenshot to be added.*
 
 ---
 
@@ -120,14 +100,9 @@ The repository is intended to demonstrate the project and its business purpose w
 
 ---
 
-## Developer
-
-**Saraswathi Poornachandran**
-
-Full-Stack Web Developer | Application Developer
+**Developed by Saraswathi Poornachandran**
 
 [GitHub Profile](https://github.com/saraswathipoornachandran) | [Developer Portfolio](https://portfolio.apptoryx.com/)
 
 ---
 
-*Developing practical web applications and business solutions.*
